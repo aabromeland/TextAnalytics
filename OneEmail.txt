@@ -1,0 +1,9 @@
+Hi Everyone,
+
+I have uploaded the data file to our IDAS server. You can find it in the directory
+	"classdata\homework\hw1"
+   
+Let me know if you have any questions.
+
+Best,
+Qihang

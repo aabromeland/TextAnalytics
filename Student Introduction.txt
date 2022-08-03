@@ -1,0 +1,55 @@
+Hello everyone,
+
+I'm Matt, I am located in Virginia about 60 miles west of DC.  My only prior experience with Python was my work in the Data Programming in Python course. Outside of my work as a senior financial analyst in health care I spend the majority of time with my wife and two young daughters.  With the warm spring weather that has meant playing at the park and walks.  When I have the chance for personal free time that often means video games.
+
+Hello, 
+
+Cherise Weber here from small-town Iowa, about 30 miles from Waterloo. I have taken Data Programming in Python and R and have had experience with SQL through work. I am interested in making sense out of data - from my at-home weather station, tracking tasty brews in my favorite app (Untappd) to trying to find ways I can use data in my career, in a job that isn't very data-driven. In my free time you'll find me outside enjoying nature. 
+
+Hi!  I am Renee Kingsbury.
+
+I live in Urbandale, IA.  Work in Ames, IA.
+Area of interest for me is Supply Chain analytics.  
+I took the Data Programming in Python course.
+
+Hey, I'm Brandon Hill
+
+I live in Kalispell, Montana and work for Grinnell Mutual.
+
+I hope to be able to appy the text analytics skills I gain in this course in my position as a Technical Specialist working with databases.
+
+I have taken the Into to R course and a course in Social Analytics which utalized R. I don't have experience with Python.
+
+Hello,
+
+I’m Jake Barber and I’m an Operations Accounting Analyst at John Deere Seeding in Moline, IL and live in Bettendorf, IA.  The main area of interest I have in relation to this class would be applications within Accounting and Finance, as I would like to apply the topic to the functions in which I work.  Also, I’ve taken R Programming, yet currently do not have experience in Python.  
+
+Hi, I'm Aaron Bromeland
+
+ 
+
+I live in LeClaire, IA and work in Moline, IL at John Deere. 
+My area of interest would be applications within accounting and finance.
+I have taken both the data programming in Python and R courses, and I use both languages and SQL at work for various projects.
+
+Hello Everyone,
+
+My name is Rajiv Ray and I am from West Bengal, India. I have done my undergrad in B.COM and then earned a post-graduation degree in Human Resource Management. I have about 6 years of experience with Deloitte as a Human Resource Professional, managing the hiring needs, workforce planning, and employee engagement.
+
+I decided to pursue MSBA as I am very inclined toward data and this program will help me in gaining the required technical skills to become a successful Business Analyst/Advisor in a consulting firm. I have academic experience in programming as I took a course on Python in the last two semesters and looking forward to learning more this semester.
+
+In my free time, I love training at the gym and traveling around.
+
+Hi everyone, Ben Weber here.
+
+Live in Oelwein, Work in Waterloo/Moline/Home depending on the day.
+I am interested in using big data to make machine learning models
+I have taken course in Python & SQL.  I use Python, SQL, PySpark and R in my current role.
+
+
+Hi all.  My name is Nathan Bochmann.  I live in Des Moines (near Easter Lake) with my wife and three kids (10-year-old, 8-year-old, and 2-year-old).  I work at Principal Financial Group, specifically for Principal Global Investors, and lead a Data Governance team.  I’ve been with Principal for nine years working in the areas of Internal Audit and Data Governance.  This is my ninth class in the MSBA.  I’m interested in applications in asset management and insurance as that aligns most closely with my background and current role.  I’ve worked mostly with R Programming for class work (R Programming, Financial Analytics, Data Science) at Iowa and some at work.  I have no experience with Python to date.        
+
+Hi everyone, my name is Steve Kamau, and I am about 2/3 of the way through the Business Analytics program. I work as a Senior Lead Business Execution Consultant at Wells Fargo. I live in Des Moines with my wife and son. I am excited to meet everyone and learn more about text analytics. I have taken the Data programming in python class offered as part of the MSBA program.
+
+
+

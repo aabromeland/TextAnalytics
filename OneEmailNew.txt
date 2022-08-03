@@ -1,0 +1,1 @@
+a character string within double quotes
